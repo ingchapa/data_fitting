@@ -1,0 +1,1 @@
+cmd /k "C:\Users\andres\Documents\venvs\base\Scripts\activate"
